@@ -11,18 +11,18 @@
 class First:
     ALIVE = "`Still Working On Fire 🔥`"
     REPO = """
-**Hey**, __I am using__ 🔥 **PyroMan-Userbot** 🔥
+**Hey**, __I am using__ 🔥 **PyroBing-Userbot** 🔥
 
       __Thanks For Using me__
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Sharing Userbot](t.me/sharinguserbot)
-✣ **Channel Man :** [Lunatic0de](t.me/Lunatic0de)
-✣ **Owner Repo :** [Risman](t.me/mrismanaziz)
-✣ **Repo :** [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)"""
-    CREATOR = 'I was created by my master <a href="https://github.com/mrismanaziz/PyroMan-Userbot">Man</a> on a rainy day.'
+✣ **Group Support :** [Abing Support](t.me/AbingSupport)
+✣ **Channel Bing :** [Abing Update](t.me/AbingUpdate)
+✣ **Owner Repo :** [Abing](t.me/akuabingg)
+✣ **Repo :** [PyroBing-Userbot](https://github.com/SayaAbing/PyroBing-Userbot)"""
+    CREATOR = 'I was created by my master <a href="https://github.com/SayaAbing/PyroBing-Userbot">Bing</a> on a rainy day.'
     MSG_ON = """
-🔥 **PyroMan-Userbot Berhasil Di Aktifkan**
+🔥 **PyroBing-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
