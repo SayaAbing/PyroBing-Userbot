@@ -42,7 +42,7 @@ del _GCAST_BLACKLIST
 @Client.on_message(filters.command("gcast", cmd) & filters.me)
 async def gcast_cmd(client: Client, message: Message):
     if message.reply_to_message or get_arg(message):
-        Man = await edit_or_reply(message, "`Started global broadcast...`")
+        Man = await edit_or_reply(message, "`SABAR YAA KONTOL GCAST NYA SEKALI AJA JANGAN BANYAK...`")
     else:
         return await message.edit_text("**Berikan Sebuah Pesan atau Reply**")
     done = 0
@@ -73,7 +73,7 @@ async def gcast_cmd(client: Client, message: Message):
 @Client.on_message(filters.command("gucast", cmd) & filters.me)
 async def gucast_cmd(client: Client, message: Message):
     if message.reply_to_message or get_arg(message):
-        Man = await edit_or_reply(message, "`Started global broadcast...`")
+        Man = await edit_or_reply(message, "`SABAR YAA KONTOL GCAST NYA SEKALI AJA JANGAN BANYAK...`")
     else:
         return await message.edit_text("**Berikan Sebuah Pesan atau Reply**")
     done = 0
