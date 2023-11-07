@@ -22,11 +22,11 @@ from ProjectMan.helpers.constants import First
 from .help import add_command_help
 
 absen = [
-    "**Hadir bang** 😁",
-    "**Hadir kak** 😉",
-    "**Hadir dong** 😁",
-    "**Hadir ganteng** 🥵",
-    "**Hadir bro** 😎",
+    "**HADIRR SAYANGG** 😁",
+    "**Hadir NGENTOD** 😉",
+    "**Hadir JEMBUT** 😁",
+    "**HADIR ABING GANTENG** 🥵",
+    "**Hadir NGAB** 😎",
     "**Hadir kak maap telat** 🥺",
 ]
 
