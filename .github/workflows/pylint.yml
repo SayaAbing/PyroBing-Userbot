@@ -24,9 +24,9 @@ jobs:
           black .
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'PyroMan-Userbot: auto fixes'
+          commit_message: 'PyroBing-Userbot: auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: mrismanaziz
-          commit_user_email: mrismanaziz@gmail.com
-          commit_author: mrismanaziz <mrismanaziz@gmail.com>
+          commit_user_name: SayaAbing
+          commit_user_email: nabilrmdaan3@gmail.com
+          commit_author: SayaAbing <nabilrmdaan3@gmail.com>
